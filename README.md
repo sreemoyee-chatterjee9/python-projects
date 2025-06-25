@@ -50,7 +50,7 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 - **Description**: This script ssks the user to input a student's name. It retrieves and displays the corresponding marks. If the student’s name is not found, display an appropriate message.
 
 ### Task_2
-- **File**: [View my script : Task_2]()
-- **Description**: 
+- **File**: [View my script : Task_2](assignment_5/list_slicing.py)
+- **Description**: This script creates a list of numbers from 1 to 10. It extracts the first five elements from the list. It reverses these extracted elements. Then, it prints both the extracted list and the reversed list.
 
 ## Assignment_6
