@@ -18,4 +18,5 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 - **Description**: It takes an integer input from the user. Checks whether the number is even or odd using an if-else statement. Displays the result accordingly.
 
 ### Task_2
-- 
+- **File**: [View my script : Task_2](assignment_2/sum_of_integers_loop.py)
+- **Description**: This uses a for loop to iterate over numbers from 1 to 50 [or any range]. Calculates the sum of all integers in this range. Displays the final sum.
