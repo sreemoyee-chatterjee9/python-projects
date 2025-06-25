@@ -44,4 +44,13 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 - **File**: [View my script : Task_2](assignment_4/write_append_data.py)
 - **Description**: This script takes user input and writes it to a file named output.txt. It appends additional data to the same file. It reads and displays the final content of the file.
 
-  
+## Assignment_5
+### Task_1
+- **File**: [View my script : Task_1](assignment_5/student_marks_dictionary.py)
+- **Description**: This script ssks the user to input a student's name. It retrieves and displays the corresponding marks. If the student’s name is not found, display an appropriate message.
+
+### Task_2
+- **File**: [View my script : Task_2]()
+- **Description**: 
+
+## Assignment_6
