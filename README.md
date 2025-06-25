@@ -34,3 +34,10 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
                    2. Natural logarithm (log base e) of the number;
                    3.Sine of the number (in radians);
   Then it displays the calculated results.
+
+## Assignment_4
+### Task_1
+- **File**: [View my script : Task_1](assignment_4/read_file_handle_errors.py)
+- **Description**: This script opens and reads a text file named sample.txt. Then it prints its content line by line. It handles errors gracefully if the file does not exist.
+
+
