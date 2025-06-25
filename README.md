@@ -20,3 +20,8 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 ### Task_2
 - **File**: [View my script : Task_2](assignment_2/sum_of_integers_loop.py)
 - **Description**: This uses a for loop to iterate over numbers from 1 to 50 [or any range]. Calculates the sum of all integers in this range. Displays the final sum.
+
+## Assignment_3
+### Task_1
+- **File**:
+- **Description**:
