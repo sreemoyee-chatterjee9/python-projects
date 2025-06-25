@@ -13,5 +13,5 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 
 
 ## Assignment_2
-- **File**: `assignment_2/calculator.py`
+- **File**: `assignment_2/even_odd.py`
 - **Description**:
