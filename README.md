@@ -40,4 +40,8 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 - **File**: [View my script : Task_1](assignment_4/read_file_handle_errors.py)
 - **Description**: This script opens and reads a text file named sample.txt. Then it prints its content line by line. It handles errors gracefully if the file does not exist.
 
+### Task_2
+- **File**: [View my script : Task_2](assignment_4/write_append_data.py)
+- **Description**: This script takes user input and writes it to a file named output.txt. It appends additional data to the same file. It reads and displays the final content of the file.
 
+  
