@@ -1,6 +1,6 @@
 try:
     with open("sample.txt", "r") as file:
         for line in file:
-            print(line)  # This automatically adds an extra newline
+            print(line)
 except FileNotFoundError:
     print("Error: The file 'sample.txt' was not found.")
