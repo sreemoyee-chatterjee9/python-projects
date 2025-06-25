@@ -13,6 +13,9 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 
 
 ## Assignment_2
+### Task_1
 - **File**: [View my script : Task_1](assignment_2/even_odd.py)
 - **Description**: It takes an integer input from the user. Checks whether the number is even or odd using an if-else statement. Displays the result accordingly.
 
+### Task_2
+- 
