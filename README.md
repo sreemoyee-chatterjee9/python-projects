@@ -23,5 +23,14 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 
 ## Assignment_3
 ### Task_1
-- **File**:[View my script : Task_1](assignment_3/factorial.py)
+- **File**: [View my script : Task_1](assignment_3/factorial.py)
 - **Description**: It defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion. Returns the calculated factorial. Calls the function with a sample number and prints the output.
+
+### Task_2
+- **File**: [View my script : Task_2](assignment_3/math_module.py)
+- **Description**: This script asks the user for a number as input.
+                   It uses the math module to calculate the:
+                   1. Square root of the number;
+                   2. Natural logarithm (log base e) of the number;
+                   3.Sine of the number (in radians);
+  Then it displays the calculated results.
