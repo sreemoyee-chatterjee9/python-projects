@@ -23,5 +23,5 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 
 ## Assignment_3
 ### Task_1
-- **File**:()
-- **Description**:
+- **File**:[View my script : Task_1](assignment_3/factorial.py)
+- **Description**: It defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion. Returns the calculated factorial. Calls the function with a sample number and prints the output.
