@@ -55,9 +55,9 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 
 ## Assignment_6
 ### Task_1
-- **File**: [View my script : Task_1](assignment_6/Calculator_using_TKINTER.py)
+- **File**: [View my script : Task_1](assignment_6/TKINTER.py)
 - **Description**: This code contains all the learnings of TKINTER from the video.
 
 ### Task_2
-- **File**: [View my script : Task_2]()
+- **File**: [View my script : Task_2](assignment_6/Calculator_using_TKINTER.py)
 - **Description**: This script creates a basic calculator and performs all the basic operations like addition, subtraction, multiplications, divisions. It takes the input from the user in an interactive GUI session.
