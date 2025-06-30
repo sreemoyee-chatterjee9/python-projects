@@ -47,10 +47,17 @@ In this repository, I am creating all the assignment documents from TuteDude Cou
 ## Assignment_5
 ### Task_1
 - **File**: [View my script : Task_1](assignment_5/student_marks_dictionary.py)
-- **Description**: This script ssks the user to input a student's name. It retrieves and displays the corresponding marks. If the student’s name is not found, display an appropriate message.
+- **Description**: This script asks the user to input a student's name. It retrieves and displays the corresponding marks. If the student’s name is not found, display an appropriate message.
 
 ### Task_2
 - **File**: [View my script : Task_2](assignment_5/list_slicing.py)
 - **Description**: This script creates a list of numbers from 1 to 10. It extracts the first five elements from the list. It reverses these extracted elements. Then, it prints both the extracted list and the reversed list.
 
 ## Assignment_6
+### Task_1
+- **File**: [View my script : Task_1]()
+- **Description**: This code contains all the learnings of TKINTER from the video.
+
+### Task_2
+- **File**: [View my script : Task_2]()
+- **Description**: This script creates a basic calculator and performs all the basic operations like addition, subtraction, multiplications, divisions. It takes the input from the user in an interactive GUI session.
